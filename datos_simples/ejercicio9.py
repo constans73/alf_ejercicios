@@ -8,5 +8,3 @@ peso = float (input("Introduce el peso\n"))
 
 imc = peso / (altura*altura)
 print("Tu indice de masa corporal es de", round (imc,3))
-
-prueba
