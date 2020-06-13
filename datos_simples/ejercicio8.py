@@ -16,3 +16,4 @@ numero = int(input("Escribe un numero entero positivo\n"))
 
 suma = numero*(numero+1)/2
 print ("La suma de todos sus enteros es", suma)
+prueba
